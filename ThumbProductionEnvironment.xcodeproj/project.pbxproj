@@ -13,6 +13,32 @@
 		7CE29A651A57BC55000E5FE0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CE29A641A57BC55000E5FE0 /* Images.xcassets */; };
 		7CE29A681A57BC55000E5FE0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CE29A661A57BC55000E5FE0 /* LaunchScreen.xib */; };
 		7CE29A741A57BC56000E5FE0 /* ThumbProductionEnvironmentTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29A731A57BC56000E5FE0 /* ThumbProductionEnvironmentTests.m */; };
+		7CE29A831A57BEEF000E5FE0 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7CE29A821A57BEEF000E5FE0 /* Settings.bundle */; };
+		7CE29B0E1A57C1B0000E5FE0 /* ForbidTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AD81A57C1B0000E5FE0 /* ForbidTextField.m */; };
+		7CE29B0F1A57C1B0000E5FE0 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29ADB1A57C1B0000E5FE0 /* MBProgressHUD.m */; };
+		7CE29B101A57C1B0000E5FE0 /* NSString+Tony.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29ADD1A57C1B0000E5FE0 /* NSString+Tony.m */; };
+		7CE29B111A57C1B0000E5FE0 /* GSReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AE01A57C1B0000E5FE0 /* GSReachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7CE29B121A57C1B0000E5FE0 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AE21A57C1B0000E5FE0 /* Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		7CE29B131A57C1B0000E5FE0 /* SSFPasswordGestureView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AE51A57C1B0000E5FE0 /* SSFPasswordGestureView.m */; };
+		7CE29B141A57C1B0000E5FE0 /* SSFPasswordGestureView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CE29AE61A57C1B0000E5FE0 /* SSFPasswordGestureView.xib */; };
+		7CE29B151A57C1B0000E5FE0 /* SSFPathLineLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AE81A57C1B0000E5FE0 /* SSFPathLineLayer.m */; };
+		7CE29B161A57C1B0000E5FE0 /* SSFSegmentControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AEB1A57C1B0000E5FE0 /* SSFSegmentControl.m */; };
+		7CE29B171A57C1B0000E5FE0 /* SSFSegmentControl.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CE29AEC1A57C1B0000E5FE0 /* SSFSegmentControl.xib */; };
+		7CE29B181A57C1B0000E5FE0 /* SSFShowColorPointView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AEF1A57C1B0000E5FE0 /* SSFShowColorPointView.m */; };
+		7CE29B191A57C1B0000E5FE0 /* SSFShowColorPointView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CE29AF01A57C1B0000E5FE0 /* SSFShowColorPointView.xib */; };
+		7CE29B1A1A57C1B0000E5FE0 /* SSFShowSimpleAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AF21A57C1B0000E5FE0 /* SSFShowSimpleAlert.m */; };
+		7CE29B1B1A57C1B0000E5FE0 /* ZDCommonUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AF71A57C1B0000E5FE0 /* ZDCommonUtil.m */; };
+		7CE29B1C1A57C1B0000E5FE0 /* ZDCustomer.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AFA1A57C1B0000E5FE0 /* ZDCustomer.m */; };
+		7CE29B1D1A57C1B0000E5FE0 /* ZDNetSite.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AFC1A57C1B0000E5FE0 /* ZDNetSite.m */; };
+		7CE29B1E1A57C1B0000E5FE0 /* ZDProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29AFE1A57C1B0000E5FE0 /* ZDProduct.m */; };
+		7CE29B1F1A57C1B0000E5FE0 /* ZDProductOrder.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B001A57C1B0000E5FE0 /* ZDProductOrder.m */; };
+		7CE29B201A57C1B0000E5FE0 /* ZDProductRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B021A57C1B0000E5FE0 /* ZDProductRecord.m */; };
+		7CE29B211A57C1B0000E5FE0 /* ZDNSURLSession.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B051A57C1B0000E5FE0 /* ZDNSURLSession.m */; };
+		7CE29B221A57C1B0000E5FE0 /* ZDWebService+URLString.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B071A57C1B0000E5FE0 /* ZDWebService+URLString.m */; };
+		7CE29B231A57C1B0000E5FE0 /* ZDWebService.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B091A57C1B0000E5FE0 /* ZDWebService.m */; };
+		7CE29B241A57C1B0000E5FE0 /* ZDWebserviceDataParse.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B0B1A57C1B0000E5FE0 /* ZDWebserviceDataParse.m */; };
+		7CE29B251A57C1B0000E5FE0 /* ZDPathUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B0D1A57C1B0000E5FE0 /* ZDPathUtil.m */; };
+		7CE29B281A57F417000E5FE0 /* MyAccountTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CE29B271A57F417000E5FE0 /* MyAccountTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +63,56 @@
 		7CE29A6D1A57BC56000E5FE0 /* ThumbProductionEnvironmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThumbProductionEnvironmentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CE29A721A57BC56000E5FE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CE29A731A57BC56000E5FE0 /* ThumbProductionEnvironmentTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThumbProductionEnvironmentTests.m; sourceTree = "<group>"; };
+		7CE29A821A57BEEF000E5FE0 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = Settings.bundle; path = ../Settings.bundle; sourceTree = "<group>"; };
+		7CE29AD61A57C1B0000E5FE0 /* AllCustomerCategoryHeaders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AllCustomerCategoryHeaders.h; sourceTree = "<group>"; };
+		7CE29AD71A57C1B0000E5FE0 /* ForbidTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForbidTextField.h; sourceTree = "<group>"; };
+		7CE29AD81A57C1B0000E5FE0 /* ForbidTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForbidTextField.m; sourceTree = "<group>"; };
+		7CE29ADA1A57C1B0000E5FE0 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		7CE29ADB1A57C1B0000E5FE0 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		7CE29ADC1A57C1B0000E5FE0 /* NSString+Tony.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Tony.h"; sourceTree = "<group>"; };
+		7CE29ADD1A57C1B0000E5FE0 /* NSString+Tony.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Tony.m"; sourceTree = "<group>"; };
+		7CE29ADF1A57C1B0000E5FE0 /* GSReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GSReachability.h; sourceTree = "<group>"; };
+		7CE29AE01A57C1B0000E5FE0 /* GSReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GSReachability.m; sourceTree = "<group>"; };
+		7CE29AE11A57C1B0000E5FE0 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		7CE29AE21A57C1B0000E5FE0 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		7CE29AE41A57C1B0000E5FE0 /* SSFPasswordGestureView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFPasswordGestureView.h; sourceTree = "<group>"; };
+		7CE29AE51A57C1B0000E5FE0 /* SSFPasswordGestureView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFPasswordGestureView.m; sourceTree = "<group>"; };
+		7CE29AE61A57C1B0000E5FE0 /* SSFPasswordGestureView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SSFPasswordGestureView.xib; sourceTree = "<group>"; };
+		7CE29AE71A57C1B0000E5FE0 /* SSFPathLineLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFPathLineLayer.h; sourceTree = "<group>"; };
+		7CE29AE81A57C1B0000E5FE0 /* SSFPathLineLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFPathLineLayer.m; sourceTree = "<group>"; };
+		7CE29AEA1A57C1B0000E5FE0 /* SSFSegmentControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFSegmentControl.h; sourceTree = "<group>"; };
+		7CE29AEB1A57C1B0000E5FE0 /* SSFSegmentControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFSegmentControl.m; sourceTree = "<group>"; };
+		7CE29AEC1A57C1B0000E5FE0 /* SSFSegmentControl.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SSFSegmentControl.xib; sourceTree = "<group>"; };
+		7CE29AEE1A57C1B0000E5FE0 /* SSFShowColorPointView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFShowColorPointView.h; sourceTree = "<group>"; };
+		7CE29AEF1A57C1B0000E5FE0 /* SSFShowColorPointView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFShowColorPointView.m; sourceTree = "<group>"; };
+		7CE29AF01A57C1B0000E5FE0 /* SSFShowColorPointView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SSFShowColorPointView.xib; sourceTree = "<group>"; };
+		7CE29AF11A57C1B0000E5FE0 /* SSFShowSimpleAlert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSFShowSimpleAlert.h; sourceTree = "<group>"; };
+		7CE29AF21A57C1B0000E5FE0 /* SSFShowSimpleAlert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSFShowSimpleAlert.m; sourceTree = "<group>"; };
+		7CE29AF31A57C1B0000E5FE0 /* ZDCommonVariable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDCommonVariable.h; sourceTree = "<group>"; };
+		7CE29AF61A57C1B0000E5FE0 /* ZDCommonUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDCommonUtil.h; sourceTree = "<group>"; };
+		7CE29AF71A57C1B0000E5FE0 /* ZDCommonUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDCommonUtil.m; sourceTree = "<group>"; };
+		7CE29AF91A57C1B0000E5FE0 /* ZDCustomer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDCustomer.h; sourceTree = "<group>"; };
+		7CE29AFA1A57C1B0000E5FE0 /* ZDCustomer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDCustomer.m; sourceTree = "<group>"; };
+		7CE29AFB1A57C1B0000E5FE0 /* ZDNetSite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDNetSite.h; sourceTree = "<group>"; };
+		7CE29AFC1A57C1B0000E5FE0 /* ZDNetSite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDNetSite.m; sourceTree = "<group>"; };
+		7CE29AFD1A57C1B0000E5FE0 /* ZDProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDProduct.h; sourceTree = "<group>"; };
+		7CE29AFE1A57C1B0000E5FE0 /* ZDProduct.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDProduct.m; sourceTree = "<group>"; };
+		7CE29AFF1A57C1B0000E5FE0 /* ZDProductOrder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDProductOrder.h; sourceTree = "<group>"; };
+		7CE29B001A57C1B0000E5FE0 /* ZDProductOrder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDProductOrder.m; sourceTree = "<group>"; };
+		7CE29B011A57C1B0000E5FE0 /* ZDProductRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDProductRecord.h; sourceTree = "<group>"; };
+		7CE29B021A57C1B0000E5FE0 /* ZDProductRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDProductRecord.m; sourceTree = "<group>"; };
+		7CE29B041A57C1B0000E5FE0 /* ZDNSURLSession.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDNSURLSession.h; sourceTree = "<group>"; };
+		7CE29B051A57C1B0000E5FE0 /* ZDNSURLSession.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDNSURLSession.m; sourceTree = "<group>"; };
+		7CE29B061A57C1B0000E5FE0 /* ZDWebService+URLString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ZDWebService+URLString.h"; sourceTree = "<group>"; };
+		7CE29B071A57C1B0000E5FE0 /* ZDWebService+URLString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ZDWebService+URLString.m"; sourceTree = "<group>"; };
+		7CE29B081A57C1B0000E5FE0 /* ZDWebService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDWebService.h; sourceTree = "<group>"; };
+		7CE29B091A57C1B0000E5FE0 /* ZDWebService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDWebService.m; sourceTree = "<group>"; };
+		7CE29B0A1A57C1B0000E5FE0 /* ZDWebserviceDataParse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDWebserviceDataParse.h; sourceTree = "<group>"; };
+		7CE29B0B1A57C1B0000E5FE0 /* ZDWebserviceDataParse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDWebserviceDataParse.m; sourceTree = "<group>"; };
+		7CE29B0C1A57C1B0000E5FE0 /* ZDPathUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDPathUtil.h; sourceTree = "<group>"; };
+		7CE29B0D1A57C1B0000E5FE0 /* ZDPathUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDPathUtil.m; sourceTree = "<group>"; };
+		7CE29B261A57F417000E5FE0 /* MyAccountTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyAccountTableViewController.h; sourceTree = "<group>"; };
+		7CE29B271A57F417000E5FE0 /* MyAccountTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyAccountTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +154,7 @@
 		7CE29A561A57BC55000E5FE0 /* ThumbProductionEnvironment */ = {
 			isa = PBXGroup;
 			children = (
+				7CE29A611A57BC55000E5FE0 /* Main.storyboard */,
 				7CE29A811A57BEA0000E5FE0 /* Resources */,
 				7CE29A801A57BE85000E5FE0 /* Classes */,
 				7CE29A571A57BC55000E5FE0 /* Supporting Files */,
@@ -114,6 +191,8 @@
 		7CE29A7D1A57BC85000E5FE0 /* SecondTab */ = {
 			isa = PBXGroup;
 			children = (
+				7CE29B261A57F417000E5FE0 /* MyAccountTableViewController.h */,
+				7CE29B271A57F417000E5FE0 /* MyAccountTableViewController.m */,
 			);
 			name = SecondTab;
 			sourceTree = "<group>";
@@ -135,6 +214,8 @@
 		7CE29A801A57BE85000E5FE0 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				7CE29AD51A57C1B0000E5FE0 /* customerCategory */,
+				7CE29AF41A57C1B0000E5FE0 /* mode */,
 				7CE29A5B1A57BC55000E5FE0 /* AppDelegate.h */,
 				7CE29A5C1A57BC55000E5FE0 /* AppDelegate.m */,
 				7CE29A7F1A57BC9A000E5FE0 /* FirstTab */,
@@ -147,11 +228,136 @@
 		7CE29A811A57BEA0000E5FE0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				7CE29A611A57BC55000E5FE0 /* Main.storyboard */,
+				7CE29A821A57BEEF000E5FE0 /* Settings.bundle */,
 				7CE29A641A57BC55000E5FE0 /* Images.xcassets */,
 				7CE29A661A57BC55000E5FE0 /* LaunchScreen.xib */,
 			);
 			name = Resources;
+			sourceTree = "<group>";
+		};
+		7CE29AD51A57C1B0000E5FE0 /* customerCategory */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29AD61A57C1B0000E5FE0 /* AllCustomerCategoryHeaders.h */,
+				7CE29AD71A57C1B0000E5FE0 /* ForbidTextField.h */,
+				7CE29AD81A57C1B0000E5FE0 /* ForbidTextField.m */,
+				7CE29AD91A57C1B0000E5FE0 /* MBProgressHUD */,
+				7CE29ADC1A57C1B0000E5FE0 /* NSString+Tony.h */,
+				7CE29ADD1A57C1B0000E5FE0 /* NSString+Tony.m */,
+				7CE29ADE1A57C1B0000E5FE0 /* Reachability */,
+				7CE29AE31A57C1B0000E5FE0 /* SSFGesturePassword */,
+				7CE29AE91A57C1B0000E5FE0 /* SSFSegmentedControl */,
+				7CE29AED1A57C1B0000E5FE0 /* SSFShowColorPointView */,
+				7CE29AF11A57C1B0000E5FE0 /* SSFShowSimpleAlert.h */,
+				7CE29AF21A57C1B0000E5FE0 /* SSFShowSimpleAlert.m */,
+				7CE29AF31A57C1B0000E5FE0 /* ZDCommonVariable.h */,
+			);
+			path = customerCategory;
+			sourceTree = "<group>";
+		};
+		7CE29AD91A57C1B0000E5FE0 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29ADA1A57C1B0000E5FE0 /* MBProgressHUD.h */,
+				7CE29ADB1A57C1B0000E5FE0 /* MBProgressHUD.m */,
+			);
+			path = MBProgressHUD;
+			sourceTree = "<group>";
+		};
+		7CE29ADE1A57C1B0000E5FE0 /* Reachability */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29ADF1A57C1B0000E5FE0 /* GSReachability.h */,
+				7CE29AE01A57C1B0000E5FE0 /* GSReachability.m */,
+				7CE29AE11A57C1B0000E5FE0 /* Reachability.h */,
+				7CE29AE21A57C1B0000E5FE0 /* Reachability.m */,
+			);
+			path = Reachability;
+			sourceTree = "<group>";
+		};
+		7CE29AE31A57C1B0000E5FE0 /* SSFGesturePassword */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29AE41A57C1B0000E5FE0 /* SSFPasswordGestureView.h */,
+				7CE29AE51A57C1B0000E5FE0 /* SSFPasswordGestureView.m */,
+				7CE29AE61A57C1B0000E5FE0 /* SSFPasswordGestureView.xib */,
+				7CE29AE71A57C1B0000E5FE0 /* SSFPathLineLayer.h */,
+				7CE29AE81A57C1B0000E5FE0 /* SSFPathLineLayer.m */,
+			);
+			path = SSFGesturePassword;
+			sourceTree = "<group>";
+		};
+		7CE29AE91A57C1B0000E5FE0 /* SSFSegmentedControl */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29AEA1A57C1B0000E5FE0 /* SSFSegmentControl.h */,
+				7CE29AEB1A57C1B0000E5FE0 /* SSFSegmentControl.m */,
+				7CE29AEC1A57C1B0000E5FE0 /* SSFSegmentControl.xib */,
+			);
+			path = SSFSegmentedControl;
+			sourceTree = "<group>";
+		};
+		7CE29AED1A57C1B0000E5FE0 /* SSFShowColorPointView */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29AEE1A57C1B0000E5FE0 /* SSFShowColorPointView.h */,
+				7CE29AEF1A57C1B0000E5FE0 /* SSFShowColorPointView.m */,
+				7CE29AF01A57C1B0000E5FE0 /* SSFShowColorPointView.xib */,
+			);
+			path = SSFShowColorPointView;
+			sourceTree = "<group>";
+		};
+		7CE29AF41A57C1B0000E5FE0 /* mode */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29AF51A57C1B0000E5FE0 /* commonUtil */,
+				7CE29AF81A57C1B0000E5FE0 /* storeCategory */,
+				7CE29B031A57C1B0000E5FE0 /* webService */,
+				7CE29B0C1A57C1B0000E5FE0 /* ZDPathUtil.h */,
+				7CE29B0D1A57C1B0000E5FE0 /* ZDPathUtil.m */,
+			);
+			path = mode;
+			sourceTree = "<group>";
+		};
+		7CE29AF51A57C1B0000E5FE0 /* commonUtil */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29AF61A57C1B0000E5FE0 /* ZDCommonUtil.h */,
+				7CE29AF71A57C1B0000E5FE0 /* ZDCommonUtil.m */,
+			);
+			path = commonUtil;
+			sourceTree = "<group>";
+		};
+		7CE29AF81A57C1B0000E5FE0 /* storeCategory */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29AF91A57C1B0000E5FE0 /* ZDCustomer.h */,
+				7CE29AFA1A57C1B0000E5FE0 /* ZDCustomer.m */,
+				7CE29AFB1A57C1B0000E5FE0 /* ZDNetSite.h */,
+				7CE29AFC1A57C1B0000E5FE0 /* ZDNetSite.m */,
+				7CE29AFD1A57C1B0000E5FE0 /* ZDProduct.h */,
+				7CE29AFE1A57C1B0000E5FE0 /* ZDProduct.m */,
+				7CE29AFF1A57C1B0000E5FE0 /* ZDProductOrder.h */,
+				7CE29B001A57C1B0000E5FE0 /* ZDProductOrder.m */,
+				7CE29B011A57C1B0000E5FE0 /* ZDProductRecord.h */,
+				7CE29B021A57C1B0000E5FE0 /* ZDProductRecord.m */,
+			);
+			path = storeCategory;
+			sourceTree = "<group>";
+		};
+		7CE29B031A57C1B0000E5FE0 /* webService */ = {
+			isa = PBXGroup;
+			children = (
+				7CE29B041A57C1B0000E5FE0 /* ZDNSURLSession.h */,
+				7CE29B051A57C1B0000E5FE0 /* ZDNSURLSession.m */,
+				7CE29B061A57C1B0000E5FE0 /* ZDWebService+URLString.h */,
+				7CE29B071A57C1B0000E5FE0 /* ZDWebService+URLString.m */,
+				7CE29B081A57C1B0000E5FE0 /* ZDWebService.h */,
+				7CE29B091A57C1B0000E5FE0 /* ZDWebService.m */,
+				7CE29B0A1A57C1B0000E5FE0 /* ZDWebserviceDataParse.h */,
+				7CE29B0B1A57C1B0000E5FE0 /* ZDWebserviceDataParse.m */,
+			);
+			path = webService;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,8 +440,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CE29A831A57BEEF000E5FE0 /* Settings.bundle in Resources */,
 				7CE29A631A57BC55000E5FE0 /* Main.storyboard in Resources */,
+				7CE29B141A57C1B0000E5FE0 /* SSFPasswordGestureView.xib in Resources */,
 				7CE29A681A57BC55000E5FE0 /* LaunchScreen.xib in Resources */,
+				7CE29B191A57C1B0000E5FE0 /* SSFShowColorPointView.xib in Resources */,
+				7CE29B171A57C1B0000E5FE0 /* SSFSegmentControl.xib in Resources */,
 				7CE29A651A57BC55000E5FE0 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,8 +464,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CE29B201A57C1B0000E5FE0 /* ZDProductRecord.m in Sources */,
+				7CE29B181A57C1B0000E5FE0 /* SSFShowColorPointView.m in Sources */,
+				7CE29B1C1A57C1B0000E5FE0 /* ZDCustomer.m in Sources */,
+				7CE29B111A57C1B0000E5FE0 /* GSReachability.m in Sources */,
+				7CE29B0E1A57C1B0000E5FE0 /* ForbidTextField.m in Sources */,
+				7CE29B1B1A57C1B0000E5FE0 /* ZDCommonUtil.m in Sources */,
+				7CE29B241A57C1B0000E5FE0 /* ZDWebserviceDataParse.m in Sources */,
+				7CE29B1F1A57C1B0000E5FE0 /* ZDProductOrder.m in Sources */,
+				7CE29B1E1A57C1B0000E5FE0 /* ZDProduct.m in Sources */,
 				7CE29A5D1A57BC55000E5FE0 /* AppDelegate.m in Sources */,
+				7CE29B221A57C1B0000E5FE0 /* ZDWebService+URLString.m in Sources */,
+				7CE29B281A57F417000E5FE0 /* MyAccountTableViewController.m in Sources */,
+				7CE29B121A57C1B0000E5FE0 /* Reachability.m in Sources */,
+				7CE29B1D1A57C1B0000E5FE0 /* ZDNetSite.m in Sources */,
+				7CE29B161A57C1B0000E5FE0 /* SSFSegmentControl.m in Sources */,
+				7CE29B211A57C1B0000E5FE0 /* ZDNSURLSession.m in Sources */,
+				7CE29B151A57C1B0000E5FE0 /* SSFPathLineLayer.m in Sources */,
+				7CE29B131A57C1B0000E5FE0 /* SSFPasswordGestureView.m in Sources */,
+				7CE29B101A57C1B0000E5FE0 /* NSString+Tony.m in Sources */,
 				7CE29A5A1A57BC55000E5FE0 /* main.m in Sources */,
+				7CE29B231A57C1B0000E5FE0 /* ZDWebService.m in Sources */,
+				7CE29B251A57C1B0000E5FE0 /* ZDPathUtil.m in Sources */,
+				7CE29B1A1A57C1B0000E5FE0 /* SSFShowSimpleAlert.m in Sources */,
+				7CE29B0F1A57C1B0000E5FE0 /* MBProgressHUD.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
